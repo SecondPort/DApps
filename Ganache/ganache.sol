@@ -15,4 +15,18 @@ contract ganache{
     function getMessage()public view returns(string memory){
         return message;
     }
+
+    //aumentar el gasto de gas
+    function fullGas()public{
+        for(uint i = 0; i < 100; i++){
+            list.push(i);
+        }
+    }
+
+    //visualizar los valores que consumen mucho gas
+    function seeValues()public view returns(uint[] memory){
+        return list;
+    }
+
+
 }
