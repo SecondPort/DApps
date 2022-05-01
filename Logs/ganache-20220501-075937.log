@@ -1,0 +1,643 @@
+[2022/05/01 07:59:37.967] - Starting server with initial configuration: {"gasLimit":6721975,"gasPrice":20000000000,"hardfork":"muirGlacier","hostname":"127.0.0.1","port":8545,"network_id":5777,"default_balance_ether":10000,"total_accounts":3,"unlocked_accounts":[],"locked":false,"vmErrorsOnRPCResponse":true,"verbose":false,"db_path":"/home/secondport/.config/Ganache/workspaces/Test/chaindata","logDirectory":"/home/secondport/Documents/DApps/Logs"}
+[2022/05/01 07:59:38.031] - eth_subscribe
+[2022/05/01 07:59:38.032] - eth_getLogs
+[2022/05/01 07:59:38.033] - eth_subscribe
+[2022/05/01 07:59:38.057] - eth_subscribe
+[2022/05/01 07:59:38.058] - eth_getLogs
+[2022/05/01 07:59:38.058] - eth_subscribe
+[2022/05/01 07:59:38.142] - eth_blockNumber
+[2022/05/01 07:59:38.142] - eth_accounts
+[2022/05/01 07:59:38.143] - eth_gasPrice
+[2022/05/01 07:59:38.143] - eth_getBlockByNumber
+[2022/05/01 07:59:38.144] - eth_subscribe
+[2022/05/01 07:59:38.169] - eth_getBalance
+[2022/05/01 07:59:38.172] - eth_getTransactionCount
+[2022/05/01 07:59:38.176] - eth_getBalance
+[2022/05/01 07:59:38.179] - eth_getTransactionCount
+[2022/05/01 07:59:38.180] - eth_getBalance
+[2022/05/01 07:59:38.183] - eth_getTransactionCount
+[2022/05/01 07:59:38.185] - eth_getBalance
+[2022/05/01 07:59:38.186] - eth_getTransactionCount
+[2022/05/01 07:59:38.189] - eth_getBalance
+[2022/05/01 07:59:38.189] - eth_getTransactionCount
+[2022/05/01 07:59:38.192] - eth_getBalance
+[2022/05/01 07:59:38.192] - eth_getTransactionCount
+[2022/05/01 07:59:38.231] - eth_blockNumber
+[2022/05/01 07:59:38.231] - eth_accounts
+[2022/05/01 07:59:38.231] - eth_gasPrice
+[2022/05/01 07:59:38.231] - eth_getBlockByNumber
+[2022/05/01 07:59:38.231] - eth_subscribe
+[2022/05/01 07:59:38.304] - eth_getBalance
+[2022/05/01 07:59:38.306] - eth_getTransactionCount
+[2022/05/01 07:59:38.307] - eth_getBalance
+[2022/05/01 07:59:38.310] - eth_getTransactionCount
+[2022/05/01 07:59:38.311] - eth_getBalance
+[2022/05/01 07:59:38.312] - eth_getTransactionCount
+[2022/05/01 07:59:38.315] - eth_getBalance
+[2022/05/01 07:59:38.318] - eth_getTransactionCount
+[2022/05/01 07:59:38.322] - eth_getBalance
+[2022/05/01 07:59:38.324] - eth_getTransactionCount
+[2022/05/01 07:59:38.326] - eth_getBalance
+[2022/05/01 07:59:38.328] - eth_getTransactionCount
+[2022/05/01 07:59:38.841] - eth_blockNumber
+[2022/05/01 07:59:46.090] - eth_blockNumber
+[2022/05/01 07:59:46.101] - net_version
+[2022/05/01 07:59:46.105] - eth_accounts
+[2022/05/01 07:59:46.119] - eth_blockNumber
+[2022/05/01 07:59:46.123] - net_version
+[2022/05/01 07:59:47.649] - eth_accounts
+[2022/05/01 07:59:48.291] - eth_getBlockByNumber
+[2022/05/01 07:59:48.330] - eth_accounts
+[2022/05/01 07:59:48.399] - eth_getBlockByNumber
+[2022/05/01 07:59:48.408] - eth_getBlockByNumber
+[2022/05/01 07:59:48.418] - eth_getBlockByNumber
+[2022/05/01 07:59:48.431] - eth_estimateGas
+[2022/05/01 07:59:48.727] - eth_getBlockByNumber
+[2022/05/01 07:59:48.727] - eth_blockNumber
+[2022/05/01 07:59:48.734] - eth_estimateGas
+[2022/05/01 07:59:48.798] - eth_getBlockByNumber
+[2022/05/01 07:59:48.799] - eth_gasPrice
+[2022/05/01 07:59:48.806] - eth_sendTransaction
+[2022/05/01 07:59:48.852] - 
+[2022/05/01 07:59:48.855] -   Transaction: 0x2591d02a4c0a7dce811d75947bbdb08c12f35822994b4c9489d955e8e8a96125
+[2022/05/01 07:59:48.855] -   Contract created: 0xb0a9e4941d820cc0071cec453deedb8ad56fe9e4
+[2022/05/01 07:59:48.856] -   Gas usage: 186963
+[2022/05/01 07:59:48.856] -   Block Number: 47
+[2022/05/01 07:59:48.864] -   Block Time: Sun May 01 2022 07:59:48 GMT-0300 (Argentina Standard Time)
+[2022/05/01 07:59:48.864] - 
+[2022/05/01 07:59:48.867] - eth_getBlockByNumber
+[2022/05/01 07:59:48.868] - eth_getBalance
+[2022/05/01 07:59:48.868] - eth_getTransactionCount
+[2022/05/01 07:59:48.869] - eth_getTransactionReceipt
+[2022/05/01 07:59:48.869] - eth_getBalance
+[2022/05/01 07:59:48.873] - eth_getTransactionCount
+[2022/05/01 07:59:48.875] - eth_getBalance
+[2022/05/01 07:59:48.875] - eth_getTransactionCount
+[2022/05/01 07:59:48.893] - eth_getCode
+[2022/05/01 07:59:48.916] - eth_getBlockByNumber
+[2022/05/01 07:59:48.926] - eth_getBlockByNumber
+[2022/05/01 07:59:48.935] - eth_estimateGas
+[2022/05/01 07:59:49.023] - eth_getBlockByNumber
+[2022/05/01 07:59:49.024] - eth_gasPrice
+[2022/05/01 07:59:49.030] - eth_sendTransaction
+[2022/05/01 07:59:49.055] - 
+[2022/05/01 07:59:49.055] -   Transaction: 0x3b71ac4106415c310bd0d635395a913c20cc6e6d1eb9f9eb86623ea0266e9e46
+[2022/05/01 07:59:49.056] -   Gas usage: 42335
+[2022/05/01 07:59:49.056] -   Block Number: 48
+[2022/05/01 07:59:49.056] -   Block Time: Sun May 01 2022 07:59:49 GMT-0300 (Argentina Standard Time)
+[2022/05/01 07:59:49.056] - 
+[2022/05/01 07:59:49.058] - eth_getBlockByNumber
+[2022/05/01 07:59:49.059] - eth_getBalance
+[2022/05/01 07:59:49.059] - eth_getTransactionReceipt
+[2022/05/01 07:59:49.060] - eth_getTransactionCount
+[2022/05/01 07:59:49.064] - eth_getBalance
+[2022/05/01 07:59:49.065] - eth_getTransactionCount
+[2022/05/01 07:59:49.068] - eth_getBalance
+[2022/05/01 07:59:49.072] - eth_getTransactionCount
+[2022/05/01 07:59:49.088] - eth_getBlockByNumber
+[2022/05/01 07:59:49.096] - eth_accounts
+[2022/05/01 07:59:49.108] - eth_getBlockByNumber
+[2022/05/01 07:59:49.129] - eth_getBlockByNumber
+[2022/05/01 07:59:49.134] - eth_getBlockByNumber
+[2022/05/01 07:59:49.140] - eth_estimateGas
+[2022/05/01 07:59:49.239] - eth_getBlockByNumber
+[2022/05/01 07:59:49.240] - eth_blockNumber
+[2022/05/01 07:59:49.257] - eth_estimateGas
+[2022/05/01 07:59:49.349] - eth_getBlockByNumber
+[2022/05/01 07:59:49.350] - eth_gasPrice
+[2022/05/01 07:59:49.356] - eth_sendTransaction
+[2022/05/01 07:59:49.396] - 
+[2022/05/01 07:59:49.397] -   Transaction: 0x80fd0b9e2a2419c47106be8c89ebf0ba35fec03190cc9c0cff505d72cbe544e0
+[2022/05/01 07:59:49.397] -   Contract created: 0x72096bf84cf200ed367bbfa9f26e3861ddcfec39
+[2022/05/01 07:59:49.397] -   Gas usage: 310062
+[2022/05/01 07:59:49.397] -   Block Number: 49
+[2022/05/01 07:59:49.397] -   Block Time: Sun May 01 2022 07:59:49 GMT-0300 (Argentina Standard Time)
+[2022/05/01 07:59:49.397] - 
+[2022/05/01 07:59:49.411] - eth_getBlockByNumber
+[2022/05/01 07:59:49.412] - eth_getBalance
+[2022/05/01 07:59:49.412] - eth_getTransactionCount
+[2022/05/01 07:59:49.413] - eth_getTransactionReceipt
+[2022/05/01 07:59:49.413] - eth_getBalance
+[2022/05/01 07:59:49.416] - eth_getTransactionCount
+[2022/05/01 07:59:49.417] - eth_getBalance
+[2022/05/01 07:59:49.417] - eth_getTransactionCount
+[2022/05/01 07:59:49.431] - eth_getCode
+[2022/05/01 07:59:49.464] - eth_getBlockByNumber
+[2022/05/01 07:59:49.475] - eth_getBlockByNumber
+[2022/05/01 07:59:49.481] - eth_estimateGas
+[2022/05/01 07:59:49.550] - eth_getBlockByNumber
+[2022/05/01 07:59:49.550] - eth_gasPrice
+[2022/05/01 07:59:49.557] - eth_sendTransaction
+[2022/05/01 07:59:49.597] - 
+[2022/05/01 07:59:49.597] -   Transaction: 0x5a70069631e8f28175720dd962e64793212871f2e7910b6a5f012bd91a8104a7
+[2022/05/01 07:59:49.597] -   Gas usage: 27335
+[2022/05/01 07:59:49.597] -   Block Number: 50
+[2022/05/01 07:59:49.597] -   Block Time: Sun May 01 2022 07:59:49 GMT-0300 (Argentina Standard Time)
+[2022/05/01 07:59:49.597] - 
+[2022/05/01 07:59:49.599] - eth_getBlockByNumber
+[2022/05/01 07:59:49.600] - eth_getBalance
+[2022/05/01 07:59:49.600] - eth_getTransactionCount
+[2022/05/01 07:59:49.603] - eth_getBalance
+[2022/05/01 07:59:49.604] - eth_getTransactionReceipt
+[2022/05/01 07:59:49.605] - eth_getTransactionCount
+[2022/05/01 07:59:49.607] - eth_getBalance
+[2022/05/01 07:59:49.610] - eth_getTransactionCount
+[2022/05/01 08:00:06.220] - eth_blockNumber
+[2022/05/01 08:00:06.231] - net_version
+[2022/05/01 08:00:06.235] - eth_accounts
+[2022/05/01 08:00:06.245] - eth_blockNumber
+[2022/05/01 08:00:06.249] - net_version
+[2022/05/01 08:00:07.128] - eth_accounts
+[2022/05/01 08:00:07.769] - eth_getBlockByNumber
+[2022/05/01 08:00:07.791] - eth_accounts
+[2022/05/01 08:00:07.825] - eth_getBlockByNumber
+[2022/05/01 08:00:07.843] - eth_getBlockByNumber
+[2022/05/01 08:00:07.851] - eth_getBlockByNumber
+[2022/05/01 08:00:07.869] - eth_estimateGas
+[2022/05/01 08:00:08.129] - eth_getBlockByNumber
+[2022/05/01 08:00:08.130] - eth_blockNumber
+[2022/05/01 08:00:08.136] - eth_estimateGas
+[2022/05/01 08:00:08.190] - eth_getBlockByNumber
+[2022/05/01 08:00:08.190] - eth_gasPrice
+[2022/05/01 08:00:08.206] - eth_sendTransaction
+[2022/05/01 08:00:08.248] - 
+[2022/05/01 08:00:08.248] -   Transaction: 0xd05dae59a9af7138eb7fa346816b00409d0a60e991cc64022f0b4cf942733e29
+[2022/05/01 08:00:08.249] -   Contract created: 0x6e0382ebe9d2d134db58224d8ef8139dc336be2c
+[2022/05/01 08:00:08.249] -   Gas usage: 186963
+[2022/05/01 08:00:08.249] -   Block Number: 51
+[2022/05/01 08:00:08.249] -   Block Time: Sun May 01 2022 08:00:08 GMT-0300 (Argentina Standard Time)
+[2022/05/01 08:00:08.249] - 
+[2022/05/01 08:00:08.251] - eth_getBlockByNumber
+[2022/05/01 08:00:08.252] - eth_getTransactionReceipt
+[2022/05/01 08:00:08.260] - eth_getBalance
+[2022/05/01 08:00:08.263] - eth_getTransactionCount
+[2022/05/01 08:00:08.265] - eth_getBalance
+[2022/05/01 08:00:08.265] - eth_getCode
+[2022/05/01 08:00:08.268] - eth_getTransactionCount
+[2022/05/01 08:00:08.272] - eth_getBalance
+[2022/05/01 08:00:08.275] - eth_getTransactionCount
+[2022/05/01 08:00:08.281] - eth_getBlockByNumber
+[2022/05/01 08:00:08.301] - eth_getBlockByNumber
+[2022/05/01 08:00:08.312] - eth_estimateGas
+[2022/05/01 08:00:08.370] - eth_getBlockByNumber
+[2022/05/01 08:00:08.372] - eth_gasPrice
+[2022/05/01 08:00:08.379] - eth_sendTransaction
+[2022/05/01 08:00:08.410] - 
+[2022/05/01 08:00:08.410] -   Transaction: 0x9dcfaf00da5cefc54a8749c2e3a61a810f3d366dabe609665d77f6dd4b18b544
+[2022/05/01 08:00:08.410] -   Gas usage: 42335
+[2022/05/01 08:00:08.410] -   Block Number: 52
+[2022/05/01 08:00:08.410] -   Block Time: Sun May 01 2022 08:00:08 GMT-0300 (Argentina Standard Time)
+[2022/05/01 08:00:08.410] - 
+[2022/05/01 08:00:08.412] - eth_getBlockByNumber
+[2022/05/01 08:00:08.413] - eth_getBalance
+[2022/05/01 08:00:08.413] - eth_getTransactionReceipt
+[2022/05/01 08:00:08.416] - eth_getTransactionCount
+[2022/05/01 08:00:08.416] - eth_getBalance
+[2022/05/01 08:00:08.417] - eth_getTransactionCount
+[2022/05/01 08:00:08.419] - eth_getBalance
+[2022/05/01 08:00:08.421] - eth_getTransactionCount
+[2022/05/01 08:00:08.436] - eth_getBlockByNumber
+[2022/05/01 08:00:08.443] - eth_accounts
+[2022/05/01 08:00:08.452] - eth_getBlockByNumber
+[2022/05/01 08:00:08.458] - eth_getBlockByNumber
+[2022/05/01 08:00:08.463] - eth_getBlockByNumber
+[2022/05/01 08:00:08.468] - eth_estimateGas
+[2022/05/01 08:00:08.519] - eth_getBlockByNumber
+[2022/05/01 08:00:08.519] - eth_blockNumber
+[2022/05/01 08:00:08.528] - eth_estimateGas
+[2022/05/01 08:00:08.590] - eth_getBlockByNumber
+[2022/05/01 08:00:08.591] - eth_gasPrice
+[2022/05/01 08:00:08.596] - eth_sendTransaction
+[2022/05/01 08:00:08.624] - 
+[2022/05/01 08:00:08.624] -   Transaction: 0x5817f715c89541d601c60db1e867c3c9c5d5def15b1efe91b2d7efb5aff7c420
+[2022/05/01 08:00:08.625] -   Contract created: 0x05d3698eed8c2e465ff20ce36d2115e291a8b8e0
+[2022/05/01 08:00:08.625] -   Gas usage: 310062
+[2022/05/01 08:00:08.625] -   Block Number: 53
+[2022/05/01 08:00:08.625] -   Block Time: Sun May 01 2022 08:00:08 GMT-0300 (Argentina Standard Time)
+[2022/05/01 08:00:08.625] - 
+[2022/05/01 08:00:08.627] - eth_getBlockByNumber
+[2022/05/01 08:00:08.628] - eth_getBalance
+[2022/05/01 08:00:08.628] - eth_getTransactionCount
+[2022/05/01 08:00:08.628] - eth_getTransactionReceipt
+[2022/05/01 08:00:08.631] - eth_getBalance
+[2022/05/01 08:00:08.635] - eth_getTransactionCount
+[2022/05/01 08:00:08.636] - eth_getBalance
+[2022/05/01 08:00:08.638] - eth_getTransactionCount
+[2022/05/01 08:00:08.645] - eth_getCode
+[2022/05/01 08:00:08.664] - eth_getBlockByNumber
+[2022/05/01 08:00:08.674] - eth_getBlockByNumber
+[2022/05/01 08:00:08.682] - eth_estimateGas
+[2022/05/01 08:00:08.726] - eth_getBlockByNumber
+[2022/05/01 08:00:08.726] - eth_gasPrice
+[2022/05/01 08:00:08.731] - eth_sendTransaction
+[2022/05/01 08:00:08.760] - 
+[2022/05/01 08:00:08.760] -   Transaction: 0x1305a2101f18b1336c22d2fa353fe957bde5ee9bdbf508efe529f6545849f0a8
+[2022/05/01 08:00:08.760] -   Gas usage: 27335
+[2022/05/01 08:00:08.760] -   Block Number: 54
+[2022/05/01 08:00:08.760] -   Block Time: Sun May 01 2022 08:00:08 GMT-0300 (Argentina Standard Time)
+[2022/05/01 08:00:08.760] - 
+[2022/05/01 08:00:08.762] - eth_getBlockByNumber
+[2022/05/01 08:00:08.763] - eth_getBalance
+[2022/05/01 08:00:08.765] - eth_getTransactionCount
+[2022/05/01 08:00:08.769] - eth_getTransactionReceipt
+[2022/05/01 08:00:08.772] - eth_getBalance
+[2022/05/01 08:00:08.772] - eth_getTransactionCount
+[2022/05/01 08:00:08.800] - eth_getBalance
+[2022/05/01 08:00:08.801] - eth_getTransactionCount
+[2022/05/01 08:00:08.806] - evm_snapshot
+[2022/05/01 08:00:08.824] - Saved snapshot #1
+[2022/05/01 08:00:08.874] - eth_blockNumber
+[2022/05/01 08:00:08.893] - eth_getBlockByNumber
+[2022/05/01 08:00:08.903] - eth_call
+[2022/05/01 08:00:08.945] - eth_blockNumber
+[2022/05/01 08:00:08.956] - eth_getBlockByNumber
+[2022/05/01 08:00:08.966] - eth_getBlockByNumber
+[2022/05/01 08:00:08.973] - eth_estimateGas
+[2022/05/01 08:00:09.268] - eth_getBlockByNumber
+[2022/05/01 08:00:09.295] - eth_getBlockByNumber
+[2022/05/01 08:00:09.295] - eth_gasPrice
+[2022/05/01 08:00:09.298] - eth_getBlockByNumber
+[2022/05/01 08:00:09.301] - eth_sendTransaction
+[2022/05/01 08:00:09.329] - 
+[2022/05/01 08:00:09.329] -   Transaction: 0x9c95df57ccb1084714b47e83e7926de127dcdbce8051d020f18ce5ba37ecabf7
+[2022/05/01 08:00:09.329] -   Gas usage: 29136
+[2022/05/01 08:00:09.329] -   Block Number: 55
+[2022/05/01 08:00:09.330] -   Block Time: Sun May 01 2022 08:00:09 GMT-0300 (Argentina Standard Time)
+[2022/05/01 08:00:09.330] - 
+[2022/05/01 08:00:09.330] - eth_getBlockByNumber
+[2022/05/01 08:00:09.331] - eth_getTransactionReceipt
+[2022/05/01 08:00:09.334] - eth_getBalance
+[2022/05/01 08:00:09.338] - eth_getTransactionCount
+[2022/05/01 08:00:09.338] - eth_getBalance
+[2022/05/01 08:00:09.341] - eth_getTransactionCount
+[2022/05/01 08:00:09.344] - eth_getBalance
+[2022/05/01 08:00:09.345] - eth_call
+[2022/05/01 08:00:09.346] - eth_getTransactionCount
+[2022/05/01 08:06:14.744] - eth_blockNumber
+[2022/05/01 08:06:14.756] - net_version
+[2022/05/01 08:06:14.760] - eth_accounts
+[2022/05/01 08:06:14.769] - eth_blockNumber
+[2022/05/01 08:06:14.773] - net_version
+[2022/05/01 08:06:15.624] - eth_accounts
+[2022/05/01 08:06:16.226] - eth_getBlockByNumber
+[2022/05/01 08:06:16.250] - eth_accounts
+[2022/05/01 08:06:16.279] - eth_getBlockByNumber
+[2022/05/01 08:06:16.294] - eth_getBlockByNumber
+[2022/05/01 08:06:16.303] - eth_getBlockByNumber
+[2022/05/01 08:06:16.321] - eth_estimateGas
+[2022/05/01 08:06:16.654] - eth_getBlockByNumber
+[2022/05/01 08:06:16.655] - eth_blockNumber
+[2022/05/01 08:06:16.662] - eth_estimateGas
+[2022/05/01 08:06:16.708] - eth_getBlockByNumber
+[2022/05/01 08:06:16.708] - eth_gasPrice
+[2022/05/01 08:06:16.715] - eth_sendTransaction
+[2022/05/01 08:06:16.749] - 
+[2022/05/01 08:06:16.749] -   Transaction: 0x53a807649d9083a517256c13f191638b21195627b2c9d4399f61d0ed15efa634
+[2022/05/01 08:06:16.749] -   Contract created: 0xc1c092ec0ee14335c76e23093610354339855a7a
+[2022/05/01 08:06:16.750] -   Gas usage: 186963
+[2022/05/01 08:06:16.750] -   Block Number: 56
+[2022/05/01 08:06:16.750] -   Block Time: Sun May 01 2022 08:06:16 GMT-0300 (Argentina Standard Time)
+[2022/05/01 08:06:16.750] - 
+[2022/05/01 08:06:16.752] - eth_getBlockByNumber
+[2022/05/01 08:06:16.752] - eth_getBalance
+[2022/05/01 08:06:16.755] - eth_getTransactionCount
+[2022/05/01 08:06:16.756] - eth_getTransactionReceipt
+[2022/05/01 08:06:16.756] - eth_getBalance
+[2022/05/01 08:06:16.759] - eth_getTransactionCount
+[2022/05/01 08:06:16.762] - eth_getBalance
+[2022/05/01 08:06:16.768] - eth_getTransactionCount
+[2022/05/01 08:06:16.771] - eth_getCode
+[2022/05/01 08:06:16.790] - eth_getBlockByNumber
+[2022/05/01 08:06:16.797] - eth_getBlockByNumber
+[2022/05/01 08:06:16.807] - eth_estimateGas
+[2022/05/01 08:06:16.859] - eth_getBlockByNumber
+[2022/05/01 08:06:16.860] - eth_gasPrice
+[2022/05/01 08:06:16.865] - eth_sendTransaction
+[2022/05/01 08:06:16.892] - 
+[2022/05/01 08:06:16.892] -   Transaction: 0x178cdef74e6e94645550280edcf0990766bd7880c64ceb275b69ea0d4eb9af5f
+[2022/05/01 08:06:16.893] -   Gas usage: 42335
+[2022/05/01 08:06:16.893] -   Block Number: 57
+[2022/05/01 08:06:16.893] -   Block Time: Sun May 01 2022 08:06:16 GMT-0300 (Argentina Standard Time)
+[2022/05/01 08:06:16.893] - 
+[2022/05/01 08:06:16.894] - eth_getBlockByNumber
+[2022/05/01 08:06:16.895] - eth_getTransactionReceipt
+[2022/05/01 08:06:16.895] - eth_getBalance
+[2022/05/01 08:06:16.898] - eth_getTransactionCount
+[2022/05/01 08:06:16.902] - eth_getBalance
+[2022/05/01 08:06:16.905] - eth_getTransactionCount
+[2022/05/01 08:06:16.906] - eth_getBalance
+[2022/05/01 08:06:16.909] - eth_getTransactionCount
+[2022/05/01 08:06:16.912] - eth_getBlockByNumber
+[2022/05/01 08:06:16.931] - eth_accounts
+[2022/05/01 08:06:16.943] - eth_getBlockByNumber
+[2022/05/01 08:06:16.948] - eth_getBlockByNumber
+[2022/05/01 08:06:16.955] - eth_getBlockByNumber
+[2022/05/01 08:06:16.962] - eth_estimateGas
+[2022/05/01 08:06:17.012] - eth_getBlockByNumber
+[2022/05/01 08:06:17.013] - eth_blockNumber
+[2022/05/01 08:06:17.020] - eth_estimateGas
+[2022/05/01 08:06:17.064] - eth_getBlockByNumber
+[2022/05/01 08:06:17.065] - eth_gasPrice
+[2022/05/01 08:06:17.073] - eth_sendTransaction
+[2022/05/01 08:06:17.105] - 
+[2022/05/01 08:06:17.105] -   Transaction: 0xb87849cd7396f5b0d767284711df1d716986ef3f608c4bd4fed8d1f63e0c7dcb
+[2022/05/01 08:06:17.105] -   Contract created: 0xe0727b1f71c34e152ba05dbad572624577902810
+[2022/05/01 08:06:17.105] -   Gas usage: 310062
+[2022/05/01 08:06:17.105] -   Block Number: 58
+[2022/05/01 08:06:17.105] -   Block Time: Sun May 01 2022 08:06:17 GMT-0300 (Argentina Standard Time)
+[2022/05/01 08:06:17.105] - 
+[2022/05/01 08:06:17.106] - eth_getBlockByNumber
+[2022/05/01 08:06:17.107] - eth_getBalance
+[2022/05/01 08:06:17.108] - eth_getTransactionReceipt
+[2022/05/01 08:06:17.110] - eth_getTransactionCount
+[2022/05/01 08:06:17.112] - eth_getBalance
+[2022/05/01 08:06:17.114] - eth_getTransactionCount
+[2022/05/01 08:06:17.117] - eth_getBalance
+[2022/05/01 08:06:17.120] - eth_getTransactionCount
+[2022/05/01 08:06:17.121] - eth_getCode
+[2022/05/01 08:06:17.143] - eth_getBlockByNumber
+[2022/05/01 08:06:17.152] - eth_getBlockByNumber
+[2022/05/01 08:06:17.159] - eth_estimateGas
+[2022/05/01 08:06:17.200] - eth_getBlockByNumber
+[2022/05/01 08:06:17.201] - eth_gasPrice
+[2022/05/01 08:06:17.207] - eth_sendTransaction
+[2022/05/01 08:06:17.234] - 
+[2022/05/01 08:06:17.234] -   Transaction: 0x3e289d1543bbbe2952a89d77c2efa066c20406c3d9cd60111a3b81bffe2af310
+[2022/05/01 08:06:17.234] -   Gas usage: 27335
+[2022/05/01 08:06:17.234] -   Block Number: 59
+[2022/05/01 08:06:17.235] -   Block Time: Sun May 01 2022 08:06:17 GMT-0300 (Argentina Standard Time)
+[2022/05/01 08:06:17.235] - 
+[2022/05/01 08:06:17.236] - eth_getBlockByNumber
+[2022/05/01 08:06:17.239] - eth_getBalance
+[2022/05/01 08:06:17.239] - eth_getTransactionReceipt
+[2022/05/01 08:06:17.240] - eth_getTransactionCount
+[2022/05/01 08:06:17.247] - eth_getBalance
+[2022/05/01 08:06:17.248] - eth_getTransactionCount
+[2022/05/01 08:06:17.250] - eth_getBalance
+[2022/05/01 08:06:17.253] - eth_getTransactionCount
+[2022/05/01 08:06:36.887] - eth_blockNumber
+[2022/05/01 08:06:36.898] - net_version
+[2022/05/01 08:06:36.902] - eth_accounts
+[2022/05/01 08:06:36.915] - eth_blockNumber
+[2022/05/01 08:06:36.919] - net_version
+[2022/05/01 08:06:37.822] - eth_accounts
+[2022/05/01 08:06:38.504] - eth_getBlockByNumber
+[2022/05/01 08:06:38.524] - eth_accounts
+[2022/05/01 08:06:38.549] - eth_getBlockByNumber
+[2022/05/01 08:06:38.557] - eth_getBlockByNumber
+[2022/05/01 08:06:38.570] - eth_getBlockByNumber
+[2022/05/01 08:06:38.587] - eth_estimateGas
+[2022/05/01 08:06:38.908] - eth_getBlockByNumber
+[2022/05/01 08:06:38.909] - eth_blockNumber
+[2022/05/01 08:06:38.917] - eth_estimateGas
+[2022/05/01 08:06:38.958] - eth_getBlockByNumber
+[2022/05/01 08:06:38.959] - eth_gasPrice
+[2022/05/01 08:06:38.965] - eth_sendTransaction
+[2022/05/01 08:06:39.000] - 
+[2022/05/01 08:06:39.000] -   Transaction: 0xdd7e71471722e2cc83b8ede7eb38994e2dcffa2154d7f1f044b3c4969d665b79
+[2022/05/01 08:06:39.000] -   Contract created: 0xd3d44f1815e46d65e4c8a36dbeeb939be1036508
+[2022/05/01 08:06:39.000] -   Gas usage: 186963
+[2022/05/01 08:06:39.000] -   Block Number: 60
+[2022/05/01 08:06:39.000] -   Block Time: Sun May 01 2022 08:06:38 GMT-0300 (Argentina Standard Time)
+[2022/05/01 08:06:39.000] - 
+[2022/05/01 08:06:39.002] - eth_getBlockByNumber
+[2022/05/01 08:06:39.003] - eth_getBalance
+[2022/05/01 08:06:39.004] - eth_getTransactionReceipt
+[2022/05/01 08:06:39.007] - eth_getTransactionCount
+[2022/05/01 08:06:39.012] - eth_getBalance
+[2022/05/01 08:06:39.017] - eth_getTransactionCount
+[2022/05/01 08:06:39.017] - eth_getBalance
+[2022/05/01 08:06:39.020] - eth_getTransactionCount
+[2022/05/01 08:06:39.020] - eth_getCode
+[2022/05/01 08:06:39.042] - eth_getBlockByNumber
+[2022/05/01 08:06:39.050] - eth_getBlockByNumber
+[2022/05/01 08:06:39.072] - eth_estimateGas
+[2022/05/01 08:06:39.118] - eth_getBlockByNumber
+[2022/05/01 08:06:39.119] - eth_gasPrice
+[2022/05/01 08:06:39.124] - eth_sendTransaction
+[2022/05/01 08:06:39.161] - 
+[2022/05/01 08:06:39.161] -   Transaction: 0x942a68937aae3da68d39517f97a3123232deb2f64981acd1d5c9acdebdf7fb6b
+[2022/05/01 08:06:39.161] -   Gas usage: 42335
+[2022/05/01 08:06:39.161] -   Block Number: 61
+[2022/05/01 08:06:39.161] -   Block Time: Sun May 01 2022 08:06:39 GMT-0300 (Argentina Standard Time)
+[2022/05/01 08:06:39.161] - 
+[2022/05/01 08:06:39.163] - eth_getBlockByNumber
+[2022/05/01 08:06:39.163] - eth_getTransactionReceipt
+[2022/05/01 08:06:39.166] - eth_getBalance
+[2022/05/01 08:06:39.170] - eth_getTransactionCount
+[2022/05/01 08:06:39.173] - eth_getBalance
+[2022/05/01 08:06:39.177] - eth_getTransactionCount
+[2022/05/01 08:06:39.179] - eth_getBalance
+[2022/05/01 08:06:39.180] - eth_getBlockByNumber
+[2022/05/01 08:06:39.181] - eth_getTransactionCount
+[2022/05/01 08:06:39.193] - eth_accounts
+[2022/05/01 08:06:39.204] - eth_getBlockByNumber
+[2022/05/01 08:06:39.209] - eth_getBlockByNumber
+[2022/05/01 08:06:39.215] - eth_getBlockByNumber
+[2022/05/01 08:06:39.221] - eth_estimateGas
+[2022/05/01 08:06:39.287] - eth_getBlockByNumber
+[2022/05/01 08:06:39.287] - eth_blockNumber
+[2022/05/01 08:06:39.293] - eth_estimateGas
+[2022/05/01 08:06:39.384] - eth_getBlockByNumber
+[2022/05/01 08:06:39.385] - eth_gasPrice
+[2022/05/01 08:06:39.391] - eth_sendTransaction
+[2022/05/01 08:06:39.426] - 
+[2022/05/01 08:06:39.427] -   Transaction: 0x25b0a717856caaddd4838a05c892f54ae86a028d5eaebf3ddb3b1165e7a31c5d
+[2022/05/01 08:06:39.427] -   Contract created: 0x4a5a7685fe93f3f85dfcff1557539c5de6542edb
+[2022/05/01 08:06:39.427] -   Gas usage: 310062
+[2022/05/01 08:06:39.427] -   Block Number: 62
+[2022/05/01 08:06:39.427] -   Block Time: Sun May 01 2022 08:06:39 GMT-0300 (Argentina Standard Time)
+[2022/05/01 08:06:39.427] - 
+[2022/05/01 08:06:39.430] - eth_getBlockByNumber
+[2022/05/01 08:06:39.431] - eth_getBalance
+[2022/05/01 08:06:39.431] - eth_getTransactionCount
+[2022/05/01 08:06:39.432] - eth_getTransactionReceipt
+[2022/05/01 08:06:39.434] - eth_getBalance
+[2022/05/01 08:06:39.434] - eth_getTransactionCount
+[2022/05/01 08:06:39.437] - eth_getBalance
+[2022/05/01 08:06:39.439] - eth_getTransactionCount
+[2022/05/01 08:06:39.447] - eth_getCode
+[2022/05/01 08:06:39.463] - eth_getBlockByNumber
+[2022/05/01 08:06:39.471] - eth_getBlockByNumber
+[2022/05/01 08:06:39.479] - eth_estimateGas
+[2022/05/01 08:06:39.537] - eth_getBlockByNumber
+[2022/05/01 08:06:39.538] - eth_gasPrice
+[2022/05/01 08:06:39.543] - eth_sendTransaction
+[2022/05/01 08:06:39.568] - 
+[2022/05/01 08:06:39.568] -   Transaction: 0xb93d5492a3b154170ce98a0029573072acc1d4dac25f25d0a45ca4573543678b
+[2022/05/01 08:06:39.568] -   Gas usage: 27335
+[2022/05/01 08:06:39.568] -   Block Number: 63
+[2022/05/01 08:06:39.568] -   Block Time: Sun May 01 2022 08:06:39 GMT-0300 (Argentina Standard Time)
+[2022/05/01 08:06:39.568] - 
+[2022/05/01 08:06:39.571] - eth_getBlockByNumber
+[2022/05/01 08:06:39.571] - eth_getBalance
+[2022/05/01 08:06:39.572] - eth_getTransactionReceipt
+[2022/05/01 08:06:39.573] - eth_getTransactionCount
+[2022/05/01 08:06:39.575] - eth_getBalance
+[2022/05/01 08:06:39.577] - eth_getTransactionCount
+[2022/05/01 08:06:39.579] - eth_getBalance
+[2022/05/01 08:06:39.582] - eth_getTransactionCount
+[2022/05/01 08:06:39.601] - evm_snapshot
+[2022/05/01 08:06:39.603] - Saved snapshot #2
+[2022/05/01 08:06:39.667] - eth_blockNumber
+[2022/05/01 08:06:39.677] - eth_getBlockByNumber
+[2022/05/01 08:06:39.687] - eth_call
+[2022/05/01 08:06:39.735] - eth_blockNumber
+[2022/05/01 08:06:39.748] - eth_getBlockByNumber
+[2022/05/01 08:06:39.754] - eth_getBlockByNumber
+[2022/05/01 08:06:39.760] - eth_estimateGas
+[2022/05/01 08:06:40.028] - eth_getBlockByNumber
+[2022/05/01 08:06:40.128] - eth_getBlockByNumber
+[2022/05/01 08:06:40.128] - eth_gasPrice
+[2022/05/01 08:06:40.129] - eth_getBlockByNumber
+[2022/05/01 08:06:40.132] - eth_sendTransaction
+[2022/05/01 08:06:40.174] - eth_getBlockByNumber
+[2022/05/01 08:06:40.191] - 
+[2022/05/01 08:06:40.191] -   Transaction: 0x418a33e8e2e31ecfcc2ceee7cc7c819f4182d33b3470b607eb4a441d1f2c16ce
+[2022/05/01 08:06:40.191] -   Gas usage: 29136
+[2022/05/01 08:06:40.191] -   Block Number: 64
+[2022/05/01 08:06:40.191] -   Block Time: Sun May 01 2022 08:06:40 GMT-0300 (Argentina Standard Time)
+[2022/05/01 08:06:40.191] - 
+[2022/05/01 08:06:40.193] - eth_getBlockByNumber
+[2022/05/01 08:06:40.200] - eth_getBalance
+[2022/05/01 08:06:40.202] - eth_getTransactionCount
+[2022/05/01 08:06:40.204] - eth_getBalance
+[2022/05/01 08:06:40.204] - eth_getTransactionReceipt
+[2022/05/01 08:06:40.206] - eth_getBlockByNumber
+[2022/05/01 08:06:40.215] - eth_getTransactionCount
+[2022/05/01 08:06:40.217] - eth_getBalance
+[2022/05/01 08:06:40.219] - eth_getTransactionCount
+[2022/05/01 08:06:40.240] - eth_call
+[2022/05/01 08:06:40.279] - eth_getBlockByNumber
+[2022/05/01 08:06:40.286] - eth_getLogs
+[2022/05/01 08:06:59.959] - eth_blockNumber
+[2022/05/01 08:06:59.969] - net_version
+[2022/05/01 08:06:59.973] - eth_accounts
+[2022/05/01 08:06:59.985] - eth_blockNumber
+[2022/05/01 08:06:59.989] - net_version
+[2022/05/01 08:07:00.873] - eth_accounts
+[2022/05/01 08:07:01.498] - eth_getBlockByNumber
+[2022/05/01 08:07:01.519] - eth_accounts
+[2022/05/01 08:07:01.546] - eth_getBlockByNumber
+[2022/05/01 08:07:01.555] - eth_getBlockByNumber
+[2022/05/01 08:07:01.564] - eth_getBlockByNumber
+[2022/05/01 08:07:01.582] - eth_estimateGas
+[2022/05/01 08:07:01.888] - eth_getBlockByNumber
+[2022/05/01 08:07:01.889] - eth_blockNumber
+[2022/05/01 08:07:01.897] - eth_estimateGas
+[2022/05/01 08:07:01.941] - eth_getBlockByNumber
+[2022/05/01 08:07:01.941] - eth_gasPrice
+[2022/05/01 08:07:01.947] - eth_sendTransaction
+[2022/05/01 08:07:01.971] - 
+[2022/05/01 08:07:01.971] -   Transaction: 0x2d3a376765b6b3d4ae51fcf16e318db53ac483c33090d9271e7d979eb2386385
+[2022/05/01 08:07:01.971] -   Contract created: 0x7fa4fd0ffefafb288650790795ec2bca09b8d6c7
+[2022/05/01 08:07:01.971] -   Gas usage: 186963
+[2022/05/01 08:07:01.971] -   Block Number: 65
+[2022/05/01 08:07:01.971] -   Block Time: Sun May 01 2022 08:07:01 GMT-0300 (Argentina Standard Time)
+[2022/05/01 08:07:01.971] - 
+[2022/05/01 08:07:01.973] - eth_getBlockByNumber
+[2022/05/01 08:07:01.977] - eth_getBalance
+[2022/05/01 08:07:01.978] - eth_getTransactionReceipt
+[2022/05/01 08:07:01.979] - eth_getTransactionCount
+[2022/05/01 08:07:02.005] - eth_getBalance
+[2022/05/01 08:07:02.006] - eth_getTransactionCount
+[2022/05/01 08:07:02.006] - eth_getBalance
+[2022/05/01 08:07:02.006] - eth_getTransactionCount
+[2022/05/01 08:07:02.014] - eth_getCode
+[2022/05/01 08:07:02.028] - eth_getBlockByNumber
+[2022/05/01 08:07:02.036] - eth_getBlockByNumber
+[2022/05/01 08:07:02.047] - eth_estimateGas
+[2022/05/01 08:07:02.084] - eth_getBlockByNumber
+[2022/05/01 08:07:02.085] - eth_gasPrice
+[2022/05/01 08:07:02.090] - eth_sendTransaction
+[2022/05/01 08:07:02.112] - 
+[2022/05/01 08:07:02.113] -   Transaction: 0x64bfe80557a89a28df01da8e9eda3d633c8db211ec0ca18f87a74ec62597daea
+[2022/05/01 08:07:02.113] -   Gas usage: 42335
+[2022/05/01 08:07:02.113] -   Block Number: 66
+[2022/05/01 08:07:02.113] -   Block Time: Sun May 01 2022 08:07:02 GMT-0300 (Argentina Standard Time)
+[2022/05/01 08:07:02.113] - 
+[2022/05/01 08:07:02.114] - eth_getBlockByNumber
+[2022/05/01 08:07:02.115] - eth_getTransactionReceipt
+[2022/05/01 08:07:02.115] - eth_getBalance
+[2022/05/01 08:07:02.118] - eth_getTransactionCount
+[2022/05/01 08:07:02.121] - eth_getBalance
+[2022/05/01 08:07:02.123] - eth_getTransactionCount
+[2022/05/01 08:07:02.125] - eth_getBalance
+[2022/05/01 08:07:02.128] - eth_getTransactionCount
+[2022/05/01 08:07:02.131] - eth_getBlockByNumber
+[2022/05/01 08:07:02.148] - eth_accounts
+[2022/05/01 08:07:02.160] - eth_getBlockByNumber
+[2022/05/01 08:07:02.165] - eth_getBlockByNumber
+[2022/05/01 08:07:02.170] - eth_getBlockByNumber
+[2022/05/01 08:07:02.177] - eth_estimateGas
+[2022/05/01 08:07:02.230] - eth_getBlockByNumber
+[2022/05/01 08:07:02.230] - eth_blockNumber
+[2022/05/01 08:07:02.235] - eth_estimateGas
+[2022/05/01 08:07:02.268] - eth_getBlockByNumber
+[2022/05/01 08:07:02.269] - eth_gasPrice
+[2022/05/01 08:07:02.273] - eth_sendTransaction
+[2022/05/01 08:07:02.296] - 
+[2022/05/01 08:07:02.296] -   Transaction: 0xd0bbaa4b7eb5f32d5dca7ebdbd5211f0a8daebba07b5c1a06840aa8743a3234f
+[2022/05/01 08:07:02.296] -   Contract created: 0xa83fc419b0fe121bd388998ca50538f6e1cb93b8
+[2022/05/01 08:07:02.296] -   Gas usage: 310062
+[2022/05/01 08:07:02.297] -   Block Number: 67
+[2022/05/01 08:07:02.297] -   Block Time: Sun May 01 2022 08:07:02 GMT-0300 (Argentina Standard Time)
+[2022/05/01 08:07:02.297] - 
+[2022/05/01 08:07:02.298] - eth_getBlockByNumber
+[2022/05/01 08:07:02.299] - eth_getTransactionReceipt
+[2022/05/01 08:07:02.300] - eth_getBalance
+[2022/05/01 08:07:02.304] - eth_getTransactionCount
+[2022/05/01 08:07:02.306] - eth_getBalance
+[2022/05/01 08:07:02.306] - eth_getCode
+[2022/05/01 08:07:02.307] - eth_getTransactionCount
+[2022/05/01 08:07:02.311] - eth_getBalance
+[2022/05/01 08:07:02.313] - eth_getTransactionCount
+[2022/05/01 08:07:02.321] - eth_getBlockByNumber
+[2022/05/01 08:07:02.343] - eth_getBlockByNumber
+[2022/05/01 08:07:02.349] - eth_estimateGas
+[2022/05/01 08:07:02.380] - eth_getBlockByNumber
+[2022/05/01 08:07:02.380] - eth_gasPrice
+[2022/05/01 08:07:02.387] - eth_sendTransaction
+[2022/05/01 08:07:02.407] - 
+[2022/05/01 08:07:02.407] -   Transaction: 0x57dfc567a40b95277c2bd2898986132cf555f177055e1b1bc7c5a869ca0b0b38
+[2022/05/01 08:07:02.407] -   Gas usage: 27335
+[2022/05/01 08:07:02.407] -   Block Number: 68
+[2022/05/01 08:07:02.407] -   Block Time: Sun May 01 2022 08:07:02 GMT-0300 (Argentina Standard Time)
+[2022/05/01 08:07:02.407] - 
+[2022/05/01 08:07:02.409] - eth_getBlockByNumber
+[2022/05/01 08:07:02.409] - eth_getTransactionReceipt
+[2022/05/01 08:07:02.412] - eth_getBalance
+[2022/05/01 08:07:02.413] - eth_getTransactionCount
+[2022/05/01 08:07:02.415] - eth_getBalance
+[2022/05/01 08:07:02.418] - eth_getTransactionCount
+[2022/05/01 08:07:02.420] - eth_getBalance
+[2022/05/01 08:07:02.423] - eth_getTransactionCount
+[2022/05/01 08:07:02.436] - evm_snapshot
+[2022/05/01 08:07:02.437] - Saved snapshot #3
+[2022/05/01 08:07:02.499] - eth_blockNumber
+[2022/05/01 08:07:02.513] - eth_getBlockByNumber
+[2022/05/01 08:07:02.523] - eth_call
+[2022/05/01 08:07:02.545] - eth_blockNumber
+[2022/05/01 08:07:02.554] - eth_getBlockByNumber
+[2022/05/01 08:07:02.562] - eth_getBlockByNumber
+[2022/05/01 08:07:02.576] - eth_estimateGas
+[2022/05/01 08:07:02.960] - eth_getBlockByNumber
+[2022/05/01 08:07:02.961] - eth_gasPrice
+[2022/05/01 08:07:02.969] - eth_sendTransaction
+[2022/05/01 08:07:02.990] - 
+[2022/05/01 08:07:02.991] -   Transaction: 0xf7e273f5227c5c61c9798ec7e5292f199d95994659b3c5640431abf05e91b87f
+[2022/05/01 08:07:02.991] -   Gas usage: 29136
+[2022/05/01 08:07:02.991] -   Block Number: 69
+[2022/05/01 08:07:02.991] -   Block Time: Sun May 01 2022 08:07:02 GMT-0300 (Argentina Standard Time)
+[2022/05/01 08:07:02.991] - 
+[2022/05/01 08:07:02.992] - eth_getBlockByNumber
+[2022/05/01 08:07:02.993] - eth_getTransactionReceipt
+[2022/05/01 08:07:02.994] - eth_getBalance
+[2022/05/01 08:07:02.996] - eth_getTransactionCount
+[2022/05/01 08:07:02.998] - eth_getBalance
+[2022/05/01 08:07:03.000] - eth_getTransactionCount
+[2022/05/01 08:07:03.003] - eth_getBalance
+[2022/05/01 08:07:03.005] - eth_getTransactionCount
+[2022/05/01 08:07:03.007] - eth_call
+[2022/05/01 08:07:03.015] - eth_getBlockByNumber
+[2022/05/01 08:07:03.042] - eth_getBlockByNumber
