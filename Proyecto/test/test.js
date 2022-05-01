@@ -15,4 +15,10 @@ contract('hello', accuonts => {
         const message = await intance.getMessage.call();
         assert.equal(message, "Hola mundo 2");
     });
+    it("fullgas", async() => {
+        let intance = await hello.deployed();
+        const tx = await intance.fullgas({ from: accuonts[2] });
+        const message = await intance.getMessage.call();
+        assert.equal(tx, data);
+    });
 });
