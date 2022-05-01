@@ -1,17 +1,32 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >0.6.0;
 
-contract hello{
+contract ganache{
 
-    string public message = "Hola mundo";
+    string message = "";
+    uint[] list;
 
-    //visulizacion del message en blockchain
+    //publicar un mensaje en la cadena de bloques
+    function setMessage(string memory _message)public{
+        message = _message;
+    }
+
+    //funcion de visualizar el mensaje de la cadena de bloques
     function getMessage()public view returns(string memory){
         return message;
     }
 
-    //envio de un mensaje a la blockchain
-    function setMessage(string memory _message)public{
-        message = _message;
+    //aumentar el gasto de gas
+    function fullGas()public{
+        for(uint i = 0; i < 100; i++){
+            list.push(i);
+        }
     }
+
+    //visualizar los valores que consumen mucho gas
+    function seeValues()public view returns(uint[] memory){
+        return list;
+    }
+
+
 }
