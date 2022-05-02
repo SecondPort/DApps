@@ -1,0 +1,17 @@
+{
+    "name": "app",
+    "version": "1.0.0",
+    "description": "",
+    "main": "indexz.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "SecondPort",
+    "license": "ISC",
+    "dependencies": {
+        "ethereumjs-tx": "^2.1.2",
+        "node-fetch": "^3.2.4",
+        "web3": "^1.7.3"
+    }
+}

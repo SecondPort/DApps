@@ -1,44 +1,30 @@
-//https://api.nasa.gov/neo/rest/v1/feed?start_date=START_DATE&end_date=END_DATE&api_key=API_KEY
 // SPDX-License-Identifier: MIT
 pragma solidity >0.6.0;
 
 contract Oracle {
-
-    //direccion del owner
+    // Direccion del owner
     address owner;
-
-    //numero de asteroides
+    // Numero asteroids
     uint public numberAsteroids;
 
-    //eventos que reciba datos del oraculo
+    // Evento que reciba datos del oraculo
     event __callbackNewData();
-
-    constructor() public {
+    // Constructor
+    constructor () public {
         owner = msg.sender;
     }
 
-    //restriccion de la ejecucion de la funcion
-    modifier onlyOwner {
-        require(msg.sender == owner, "Only owner can call this function");
+    // Restriccion de la ejecucion de las funciones
+    modifier onlyOwner() {
+        require(msg.sender == owner, 'Only owner');
         _;
     }
-
-    //funcion que recibe datos del oraculo
-    function update()public onlyOwner{
+    // Recibe datos del oraculo
+    function update() public onlyOwner {
         emit __callbackNewData();
     }
-
-    //funcion para config manual para el numero de asteroides
-    function setNumberAsteroids(uint _num)public onlyOwner{
+    // Funcion para configuracion manual del numero de asteroids
+    function setNumberAsteroids(uint _num) public onlyOwner {
         numberAsteroids = _num;
     }
-
-
-
-
-
-
-
-
-
 }
