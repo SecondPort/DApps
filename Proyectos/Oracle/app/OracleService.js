@@ -7,13 +7,14 @@ const fetch = require('node-fetch')
 const contractJson = require('../build/contracts/Oracle.json')
 
 // Instancia de web3
-const web3 = new Web3('ws://127.0.0.1:8545')
+const web3 = new Web3('ws://127.0.0.1:7545')
 
 // Información de direcciones de Ganache
-const addressContract = '0x5B95481Dbb211C7AA5aB3bF82b3d99D2b2d49576'
+const addressContract = '0xe941d8B8e6b0529ae538Ff1108662bB7953f8689'
+
 const contractInstance = new web3.eth.Contract(contractJson.abi, addressContract)
-const privateKey = Buffer.from('9027c3a390ed0cbdc68e2a7d7c4045af2dbf38db49a20dbb62473bad34bb0555', 'hex')
-const address = '0x62e29CdD61076B2C2c97B93eaCB651cF6D764e17'
+const privateKey = Buffer.from('678a8f710b8d457887469cfb8c29701f088987d239b19efdd3ad7a40442a43d4', 'hex')
+const address = '0x38d5B406fCb91a1a654cFA1f477efdc9B2a7A17f'
 
 // Obtener el número de bloque
 web3.eth.getBlockNumber()
@@ -32,7 +33,7 @@ function updateData() {
     // start_date = 2015-09-07
     // end_date = 2015-09-08
     // api_key = DEMO_KEY
-    const url = 'https://api.nasa.gov/neo/rest/v1/feed?start_date=2020-09-07&end_date=2020-09-08&api_key=DEMO_KEY'
+    const url = 'https://api.nasa.gov/neo/rest/v1/feed?start_date=2019-09-07&end_date=2019-09-08&api_key=DEMO_KEY'
 
     fetch(url)
         .then(response => response.json())
