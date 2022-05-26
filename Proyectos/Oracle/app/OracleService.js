@@ -33,7 +33,7 @@ function updateData() {
     // start_date = 2015-09-07
     // end_date = 2015-09-08
     // api_key = DEMO_KEY
-    const url = 'https://api.nasa.gov/neo/rest/v1/feed?start_date=2019-09-07&end_date=2019-09-08&api_key=DEMO_KEY'
+    const url = 'https://api.nasa.gov/neo/rest/v1/feed?start_date=2000-09-07&end_date=2000-09-08&api_key=DEMO_KEY'
 
     fetch(url)
         .then(response => response.json())
