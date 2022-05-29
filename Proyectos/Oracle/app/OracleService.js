@@ -10,11 +10,11 @@ const contractJson = require('../build/contracts/Oracle.json')
 const web3 = new Web3('ws://127.0.0.1:7545')
 
 // Información de direcciones de Ganache
-const addressContract = '0xe941d8B8e6b0529ae538Ff1108662bB7953f8689'
+const addressContract = '0x7395a923b7c9aB7810C1b88877158E6a5c7e3dB7'
 
 const contractInstance = new web3.eth.Contract(contractJson.abi, addressContract)
-const privateKey = Buffer.from('678a8f710b8d457887469cfb8c29701f088987d239b19efdd3ad7a40442a43d4', 'hex')
-const address = '0x38d5B406fCb91a1a654cFA1f477efdc9B2a7A17f'
+const address = '0xa46439673dDc16B2BA8DD5831324651fa2A67884'
+const privateKey = Buffer.from('75f8a8ded140fdc7e2770bed43f1146c5c1c8876b977f6972ee4e37394fabca5', 'hex')
 
 // Obtener el número de bloque
 web3.eth.getBlockNumber()
