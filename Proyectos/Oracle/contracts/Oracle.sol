@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity > 0.4.20;
 
+
 contract Oracle {
 
     // Direccion del owner
@@ -32,4 +33,7 @@ contract Oracle {
     function setNumberAsteroids(uint _num) public onlyOwner {
         numberAsteroids = _num;
     }
+
+    //function to transfer a address to the contract
+    
 }
